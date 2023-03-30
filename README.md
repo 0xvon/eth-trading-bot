@@ -11,7 +11,7 @@ before run it, edit `src/index.ts` to add your private key.
 1. setup
 
 ```bash
-$ git clone ...
+$ git clone git@github.com:0xvon/eth-trading-bot.git
 $ cd eth-trading-bot
 $ npm i
 ```
